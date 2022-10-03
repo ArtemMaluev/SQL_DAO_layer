@@ -1,5 +1,5 @@
-create schema shema;
-use shema;
+create schema myDatabase;
+use myDatabase;
 
 -- script №1 create table customers
 create table CUSTOMERS
